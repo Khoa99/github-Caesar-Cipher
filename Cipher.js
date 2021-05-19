@@ -2,7 +2,7 @@
   Đây là code phần mã Caesar/Cipher 
   Language:Javascript
 */
-function caaesar_cipher(string,mode,key){
+function caesar_cipher(string,mode,key){
     for(key;key<26;key++){
     var text="",i;
     var num;
