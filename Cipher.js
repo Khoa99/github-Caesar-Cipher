@@ -22,4 +22,4 @@ if(mode=='DECRYPTION'){//Đây là phần giải mã -Decryption
     }
 }
 }
-caaesar_cipher("RGWDTSRSIDKQDWGHWDQGIFYSHOGESQAYA",'DECRYPTION',1);
+caesar_cipher("RGWDTSRSIDKQDWGHWDQGIFYSHOGESQAYA",'DECRYPTION',1);
